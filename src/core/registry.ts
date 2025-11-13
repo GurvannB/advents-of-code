@@ -11,6 +11,7 @@ import day08_2015 from "@solutions/2015/day08";
 import day09_2015 from "@solutions/2015/day09";
 import day10_2015 from "@solutions/2015/day10";
 import day11_2015 from "@solutions/2015/day11";
+import day12_2015 from "@solutions/2015/day12";
 
 export const registry: Registry = {
     '2015': {
@@ -25,6 +26,7 @@ export const registry: Registry = {
         day09: day09_2015,
         day10: day10_2015,
         day11: day11_2015,
+        day12: day12_2015,
     },
 };
 
